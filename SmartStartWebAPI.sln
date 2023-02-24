@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartStartWebAPI", "SmartStartWebAPI\SmartStartWebAPI.csproj", "{B3087782-7E7F-4053-8E87-23F60793DD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3087782-7E7F-4053-8E87-23F60793DD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3087782-7E7F-4053-8E87-23F60793DD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3087782-7E7F-4053-8E87-23F60793DD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3087782-7E7F-4053-8E87-23F60793DD22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CAB29B-1339-43A3-84D9-D327ADE18C68}
+	EndGlobalSection
+EndGlobal
