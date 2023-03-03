@@ -172,7 +172,7 @@ namespace SmartStartWebAPI.Controllers
             }).Where(x => x.Age >= avgAge);
         }
 
-        [HttpPut("Change-student-IsActive-{id}")]
+        [HttpPut("zmiana-statusu-{id}")]
         public ActionResult ChangeStudentIsActive([FromRoute] int id)
         {
             var student = _dbContext.Students.FirstOrDefault(x => x.StudentId == id);
